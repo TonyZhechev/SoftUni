@@ -1,1 +1,1 @@
-# SoftUniLabs
+# SoftUni
